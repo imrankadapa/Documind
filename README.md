@@ -323,3 +323,5 @@ ollama run llama3.2
 
 Start the `RAG` database in Neo4j Desktop. Neo4j is optional, so FAISS
 document search can still work without it.
+#   D o c u m i n d  
+ 
