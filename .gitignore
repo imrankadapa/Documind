@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/uploads/*
+backend/vector.index
+backend/texts.npy
+backend/documents.json
+.env
+node_modules/
+frontend2/dist/
